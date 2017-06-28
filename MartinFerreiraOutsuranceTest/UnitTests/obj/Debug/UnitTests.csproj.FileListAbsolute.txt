@@ -1,0 +1,9 @@
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\UnitTests.dll
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\UnitTests.pdb
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\MartinFerreiraOutsuranceTest.exe
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\MartinFerreiraOutsuranceTest.pdb
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\obj\Debug\UnitTests.dll
+c:\Users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\UnitTests\obj\Debug\UnitTests.pdb

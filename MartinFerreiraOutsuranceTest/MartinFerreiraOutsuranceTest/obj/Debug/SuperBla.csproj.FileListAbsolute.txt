@@ -1,0 +1,7 @@
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\bin\Debug\MartinFerreiraOutsuranceTest.exe.config
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\bin\Debug\MartinFerreiraOutsuranceTest.exe
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\bin\Debug\MartinFerreiraOutsuranceTest.pdb
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\obj\Debug\SuperBla.csprojResolveAssemblyReference.cache
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\obj\Debug\MartinFerreiraOutsuranceTest.exe
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\obj\Debug\MartinFerreiraOutsuranceTest.pdb
+c:\users\martin.ferreira\documents\visual studio 2015\Projects\MartinFerreiraOutsuranceTest\MartinFerreiraOutsuranceTest\bin\Debug\data.csv
